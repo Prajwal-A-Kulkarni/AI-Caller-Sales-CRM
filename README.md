@@ -27,7 +27,7 @@ An autonomous AI outbound calling agent — built as a Django module integrated 
 ### 📞 Dashboard — Trigger Calls & Live Logs
 > Trigger outbound calls, monitor live status, and browse call history with sentiment tags and AI summaries.
 
-![Landing Page](screenshots/Landing_page.png)
+![Landing Page](screenshots/Landingpage.png)
 
 ---
 
